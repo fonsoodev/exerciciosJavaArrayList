@@ -1,4 +1,4 @@
-#  Exercícios de POO & Coleções em Java (Meu Laboratório de Código)
+#  Exercícios de POO & ArrayList
 
 Uma coleção de simulações e desafios práticos desenvolvidos em Java para dominar os fundamentos de Programação Orientada a Objetos (POO), manipulação de memória RAM e estruturas de dados elásticas (`ArrayList`).
 
