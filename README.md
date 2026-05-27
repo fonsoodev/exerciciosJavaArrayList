@@ -48,7 +48,7 @@ O repositório está dividido em pacotes estratégicos dentro de `exercicios/`:
 
 Desenvolvido com muita cafeína, foco e consistência por:
 
-* **Alfonso (fonsoodev)**
+* **Afonso (fonsoodev)**
 * ☕ **Mindset:** "Se você não entendeu de primeira, pare, descanse, use o modo difuso e depois explique para si mesmo como se estivesse ensinando uma criança."
 
 ---
